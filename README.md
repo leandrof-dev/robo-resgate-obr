@@ -91,7 +91,7 @@ Grande parte do código desta versão está em fase de teste. Ele registra a equ
 
 ## Evolução do projeto (2025)
 
-Na temporada seguinte, o projeto passou por mudanças estruturais que não estão refletidas neste repositório:
+Na temporada seguinte, o projeto passou por mudanças estruturais que não estão refletidas neste repositório, tanto em lógica de programação quanto em hardware:
 
 - **Correção de bugs**: revisão e correção dos bugs identificados na versão 2024.
 - **Resgate de vítimas**: implementação da leitura da garra, que identificava vítimas vivas pelo contato elétrico gerado pelo revestimento de alumínio. Vítimas vivas eram entregues no triângulo verde da arena, e vítimas sem esse revestimento, no triângulo vermelho; a caçamba do robô direcionava cada uma conforme essa leitura.
